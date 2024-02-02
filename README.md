@@ -1,6 +1,6 @@
-### Hi there 👋
+### 
 
-[![MasterHead](https://images.search.yahoo.com/search/images;_ylt=Awr9.5otmbxlVzEPJdeJzbkF;_ylu=c2VjA3NlYXJjaARzbGsDYnV0dG9u;_ylc=X1MDOTYwNjI4NTcEX3IDMgRmcgNtY2FmZWUEZnIyA3A6cyx2OmksbTpzYi10b3AEZ3ByaWQDMjRpTi5hVU9RMEtiQUtILjNnYVdHQQRuX3JzbHQDMARuX3N1Z2cDMQRvcmlnaW4DaW1hZ2VzLnNlYXJjaC55YWhvby5jb20EcG9zAzAEcHFzdHIDBHBxc3RybAMwBHFzdHJsAzI3BHF1ZXJ5A2FuaW1hdGVkJTIwY29kZGluZyUyMGJhbm5lciUyMGdpZgR0X3N0bXADMTcwNjg1ODgxMA--?p=animated+codding+banner+gif&fr=mcafee&fr2=p%3As%2Cv%3Ai%2Cm%3Asb-top&ei=UTF-8&x=wrt&type=E211US885G0#id=0&iurl=https%3A%2F%2Fcamo.githubusercontent.com%2Fba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5%2F68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966&action=click)
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Takshak Ghagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
