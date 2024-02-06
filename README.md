@@ -1,7 +1,7 @@
 ### 
 
 ![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
-<h1  style="background-color:DodgerBlue;"align="center">Hi 👋, I'm Takshak Ghagi</h1>
+<h1 align="center">Hi 👋, I'm Takshak Ghagi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt="Girl in a jacket" width="400">
