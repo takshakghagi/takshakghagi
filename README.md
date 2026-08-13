@@ -9,13 +9,20 @@
 <img src="https://komarev.com/ghpvc/?username=takshakghagi&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&logo=vercel" />
 
-</div>
+<br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
+<a href="https://REPLACE-WITH-YOUR-PORTFOLIO-LINK.netlify.app" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio_Website-00E5FF?style=for-the-badge&logoColor=white&labelColor=0f2027"/>
+</a>
+<a href="https://REPLACE-WITH-YOUR-RESUME-LINK.pdf" target="_blank">
+<img src="https://img.shields.io/badge/📄_Download_Resume-7C5CFF?style=for-the-badge&logoColor=white&labelColor=0f2027"/>
+</a>
+
+</div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="100%" valign="top">
 
 ### 👋 About Me
 
@@ -36,11 +43,6 @@ mission: "Find the signal hidden in the noise"
 ⚡ &nbsp;Fun fact: I find patterns in things nobody else looks twice at
 
 </td>
-<td width="40%" align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
-
-</td>
 </tr>
 </table>
 
@@ -50,16 +52,42 @@ mission: "Find the signal hidden in the noise"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,python,r,cpp,js,html,css&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>&nbsp;
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/><br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8cd4-a55e1b8f8639.gif" width="100%">
+
+## 🎓 Education
+
+<table>
+<tr>
+<td width="15%" align="center"><b>2024 — Present</b></td>
+<td width="85%">
+<b>Master of Computer Applications (MCA)</b><br/>
+<span style="color:#8b95a7">RTMNU — Rashtrasant Tukadoji Maharaj Nagpur University  · CGPA 7.5/10</span>
+</td>
+</tr>
+<tr>
+<td width="15%" align="center"><b>2021 — 2024</b></td>
+<td width="85%">
+<b>B.Com in Computer Applications</b><br/>
+<span style="color:#8b95a7">Kamla Nehru College, Nagpur · CGPA 7.3/10</span>
+</td>
+</tr>
+</table>
 
 ## 🚀 Featured Projects
 
@@ -75,19 +103,6 @@ mission: "Find the signal hidden in the noise"
 </div>
 
 > 📌 Once you upload a project, replace a row above with a real link — e.g. `[SQL Sales Analysis](https://github.com/takshakghagi/your-repo-name)` — and it'll turn into a clickable link straight to your repo.
-
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8cd4-a55e1b8f8639.gif" width="100%">
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=takshakghagi&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=takshakghagi&layout=compact&theme=synthwave&hide_border=true" />
-
-<img src="https://streak-stats.demolab.com/?user=takshakghagi&theme=github-dark-blue&hide_border=true" />
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8cd4-a55e1b8f8639.gif" width="100%">
 
