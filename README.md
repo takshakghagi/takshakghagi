@@ -1,45 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Takshak%20Ghagi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20SQL%20%C2%B7%20Python%20%C2%B7%20Excel%20%C2%B7%20Power%20BI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=280&section=header&text=Takshak%20Ghagi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Aspiring%20Data%20Analyst%20%E2%80%A2%20SQL%20%E2%80%A2%20Python%20%E2%80%A2%20Excel%20%E2%80%A2%20Power%20BI&descAlignY=53&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&lines=Turning+Raw+Data+Into+Insights;SQL+%7C+Python+%7C+Excel+%7C+Power+BI;Always+Learning%2C+Always+Growing;Open+to+Data+Analyst+Roles+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=Turning+Raw+Data+Into+Clear+Decisions;SQL+%7C+Python+%7C+Excel+%7C+Power+BI+%7C+Tableau;Cleaning+Data+by+Day%2C+Dreaming+in+Dashboards;Open+to+Data+Analyst+Roles+%F0%9F%9A%80" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/PROFILE%20VIEWS-blue?style=for-the-badge&logo=googleanalytics&logoColor=white&color=0f2027" />
-<img src="https://komarev.com/ghpvc/?username=takshakghagi&style=for-the-badge&color=00c6ff&label=" />
+<img src="https://komarev.com/ghpvc/?username=takshakghagi&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" />
 <img src="https://img.shields.io/badge/STATUS-Open%20to%20Work-brightgreen?style=for-the-badge&logo=vercel" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
-
-## 🧠 &nbsp;About Me
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%">
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
+
+### 👋 About Me
 
 ```yaml
-Name: Takshak Ghagi
-Role: Aspiring Data Analyst
-Location: India
-Skills:
-  - SQL (MySQL / PostgreSQL)
-  - Python (Pandas, NumPy)
-  - Excel (Pivot Tables, Dashboards)
-  - Power BI / Tableau
-Currently_Learning:
-  - Advanced SQL
-  - Statistics for Data Analysis
-  - Storytelling with Data
-Mission: "Find the signal in the noise"
+name: Takshak Ghagi
+role: Aspiring Data Analyst
+based_in: India
+core_skills: [SQL, Python, Pandas, Excel, Power BI]
+learning_now: [Advanced SQL, Statistics, Tableau, Storytelling with Data]
+mission: "Find the signal hidden in the noise"
 ```
 
+🔎 &nbsp;Actively building skills in **SQL, Python, Excel & Power BI/Tableau**
+📊 &nbsp;I love turning messy spreadsheets into clear, actionable insights
+🌱 &nbsp;Currently sharpening **Advanced SQL** and **Data Storytelling**
+💬 &nbsp;Ask me about **Data Cleaning, EDA, Dashboards & SQL Queries**
+📫 &nbsp;Reach me at **takshakghagi@gmail.com**
+⚡ &nbsp;Fun fact: I find patterns in things nobody else looks twice at
+
 </td>
-<td width="45%" valign="top" align="center">
+<td width="40%" align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
 
@@ -47,70 +44,66 @@ Mission: "Find the signal in the noise"
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8cd4-a55e1b8f8639.gif" width="100%">
 
-## 🚀 &nbsp;Featured Projects
+## 🛠️ My Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=takshakghagi&repo=REPLACE_WITH_REPO_1&theme=synthwave&hide_border=true" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=takshakghagi&repo=REPLACE_WITH_REPO_2&theme=synthwave&hide_border=true" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=takshakghagi&repo=REPLACE_WITH_REPO_3&theme=synthwave&hide_border=true" width="47%"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=takshakghagi&repo=REPLACE_WITH_REPO_4&theme=synthwave&hide_border=true" width="47%"/>
+<img src="https://skillicons.dev/icons?i=mysql,python,r,cpp,js,html,css&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=pandas,numpy,jupyter&theme=dark" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>&nbsp;
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/><br/><br/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
 
 </div>
 
-> 📌 Replace `REPLACE_WITH_REPO_1/2/3/4` with your real project repo names once uploaded — cards glow automatically with the neon theme.
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8cd4-a55e1b8f8639.gif" width="100%">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
-
-## 🛠️ &nbsp;Tech Stack
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=00C6FF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00C6FF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=00C6FF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=00C6FF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=00C6FF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=00C6FF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Power_BI-000000?style=for-the-badge&logo=powerbi&logoColor=00C6FF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=00C6FF&labelColor=0f2027" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00C6FF&labelColor=0f2027" />
+| Project | Description | Tools |
+|---|---|---|
+| 🗄️ **SQL Sales Analysis** | Joins, CTEs & window functions on retail data | `SQL` `MySQL` |
+| 🐍 **Customer Churn EDA** | Exploratory analysis on telecom churn dataset | `Python` `Pandas` `Seaborn` |
+| 📊 **Sales Dashboard** | Interactive KPI dashboard with regional trends | `Power BI` `DAX` |
+| 📈 **Excel Business Report** | Pivot tables + charts for monthly performance | `Excel` |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
+> 📌 Once you upload a project, replace a row above with a real link — e.g. `[SQL Sales Analysis](https://github.com/takshakghagi/your-repo-name)` — and it'll turn into a clickable link straight to your repo.
 
-## 📊 &nbsp;GitHub Stats
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8cd4-a55e1b8f8639.gif" width="100%">
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=takshakghagi&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=takshakghagi&layout=compact&theme=synthwave&hide_border=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=takshakghagi&show_icons=true&theme=synthwave&hide_border=true&count_private=true" />
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=takshakghagi&layout=compact&theme=synthwave&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=takshakghagi&theme=synthwave&hide_border=true" alt="streak stats"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=takshakghagi&theme=synthwave&hide_border=true" alt="activity graph"/>
+<img src="https://streak-stats.demolab.com/?user=takshakghagi&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=3" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8cd4-a55e1b8f8639.gif" width="100%">
 
-## 🔗 &nbsp;Connect With Me
+## 🔗 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/takshak-ghagi" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00C6FF&labelColor=0f2027" />
-</a>
-<a href="https://twitter.com/takshakg454" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=00C6FF&labelColor=0f2027" />
-</a>
-<a href="mailto:takshakghagi@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00C6FF&labelColor=0f2027" />
-</a>
+<a href="https://linkedin.com/in/takshak-ghagi" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>&nbsp;&nbsp;
+<a href="https://twitter.com/takshakg454" target="_blank"><img src="https://skillicons.dev/icons?i=twitter&theme=dark"/></a>&nbsp;&nbsp;
+<a href="mailto:takshakghagi@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=dark"/></a>&nbsp;&nbsp;
+<a href="https://instagram.com/takshak_ghagi_454tt" target="_blank"><img src="https://skillicons.dev/icons?i=instagram&theme=dark"/></a>
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=150&section=footer" width="100%"/>
+
+<div align="center">
+<i>Thanks for stopping by — turning data into decisions, one query at a time ✨</i>
+</div>
